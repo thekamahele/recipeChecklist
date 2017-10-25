@@ -1,5 +1,7 @@
 # Making the Case for GraphQL: A Recipe
 
+[Talk slides](https://www.slideshare.net/secret/KPm0IRhtehSXoz)
+
 This is a handy dandy checklist to accompany my talk given at GraphQL Summit 2017 about how to convince your team to adopt GraphQL.
 
 - [ ] **Game Plan**
